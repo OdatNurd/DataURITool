@@ -1,0 +1,12 @@
+{
+    // Scopes in which the plugin should be active;
+    // checked against top level scopes.
+    "active_scopes": [
+        "text.html",
+        "source.js"
+    ],
+
+    // Time (in seconds) between modifications to check for
+    // data URI's.
+    "check_timeout": 2
+}

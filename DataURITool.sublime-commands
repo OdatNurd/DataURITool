@@ -1,0 +1,3 @@
+[
+    { "caption": "DataURITool: Copy Data URI to clipbioard", "command": "create_data_uri" },
+]
